@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on software design and documentation, and an interactive webpage for users to find the best time of day to get outside.
+- 🔭 I’m currently working on database principles and APIs, and an interactive webpage for users to find the best time of day to get outside.
 - 🌱 I’m currently learning Python, Java, and C++.
 - 👯 I’m looking to collaborate on anything that will help me learn.
 - 🤔 I’m looking for help with implementing Fourier transformations with audio plugins.
